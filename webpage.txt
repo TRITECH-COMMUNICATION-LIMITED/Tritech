@@ -3,3 +3,5 @@ welcome to Tritech website
 Home page
 
 About us
+
+Contact page
